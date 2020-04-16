@@ -1,7 +1,7 @@
 ### CodeForces Solved Problem Repository
-======
 
-##### Date Started: 4/11/20
+
+##### Date Started: ###### 4/11/20
 
 ##### Starting Ranking:
 *500*
